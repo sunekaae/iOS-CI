@@ -1,1 +1,1 @@
-submodules/olympics_app/2012 Olympics/
+submodules/olympics_app/2012_Olympics
